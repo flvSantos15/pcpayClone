@@ -1,0 +1,21 @@
+### Picpay
+
+> Clonando algumas páginas do aplicativo picpay
+
+# Features:
+
+>ReactNative
+>gesture-handlers
+>Styled-Components
+>expo vector icons
+
+
+# Desafios:
+
+> Tive que passar um tempo procurando como estilizar os botões de rotas(cores default, cores no active).
+> No curso por video aulas que fiz, algumas formas de criar os componentes estavam desatualizadas, então tive que procurar por formas atuais de resolver os bugs que encontrei.
+
+# Aprendizados:
+
+> Utilizar o React Navigation para mudar de tela.
+> O curso em si não é extenso, mas decidi fazer por partes, assim estaria simulando a entrega real de uma aplicação, com sprints(daily sprint, apresentação do projeto, entrega de funcionabilidades, reunião sobre o que foi realizado e o que falta até a entrega)
