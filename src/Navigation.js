@@ -52,7 +52,8 @@ export default function Navigation(){
           }
         ],
         tabBarActiveTintColor: '#fff',
-        tabBarInactiveTintColor: '#92929c'
+        tabBarInactiveTintColor: '#92929c',
+        headerShown: false,
       })}
     >
       <Tab.Screen 
