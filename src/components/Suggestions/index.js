@@ -15,22 +15,22 @@ const itens = [
   {
     key: String(Math.random()),
     img: img1,
-    label: 'Doações'
+    label: 'Recarga'
   },
   {
     key: String(Math.random()),
     img: img2,
-    label: 'Doações'
+    label: 'Uber'
   },
   {
     key: String(Math.random()),
     img: img3,
-    label: 'Doações'
+    label: 'Ônibus'
   },
   {
     key: String(Math.random()),
     img: img4,
-    label: 'Doações'
+    label: 'Tv'
   },
   {
     key: String(Math.random()),
@@ -40,12 +40,12 @@ const itens = [
   {
     key: String(Math.random()),
     img: img6,
-    label: 'Doações'
+    label: 'Barras'
   },
   {
     key: String(Math.random()),
     img: img7,
-    label: 'Doações'
+    label: 'FAQ'
   },
 ]
 

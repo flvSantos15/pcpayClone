@@ -21,6 +21,7 @@ import {
    Option,
    OptionLabel,
   } from './styles'
+  
 import avatar from '../../images/avatar.png'
 
 export default function Acticities(){
