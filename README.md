@@ -1,6 +1,6 @@
-![Picpay](/relative/path/to/photo5003673669511260529.jpg?raw=true "Picpay")
+<img src="PicpayClone.jpg" alt="PicPay Clone" width="265px" height="500px"/>
 
-
+<br>
 
 ### Picpay
 
@@ -23,3 +23,5 @@
 
 > Utilizar o React Navigation para mudar de tela.
 > O curso em si não é extenso, mas decidi fazer por partes, assim estaria simulando a entrega real de uma aplicação, com sprints(daily sprint, apresentação do projeto, entrega de funcionabilidades, reunião sobre o que foi realizado e o que falta até a entrega)
+
+<p>Em desenvolvimento</p>
