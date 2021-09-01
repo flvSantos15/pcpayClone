@@ -4,10 +4,10 @@
 
 # Features:
 
->ReactNative
->gesture-handlers
->Styled-Components
->expo vector icons
+> ReactNative
+> gesture-handlers
+> Styled-Components
+> expo vector icons
 
 
 # Desafios:
